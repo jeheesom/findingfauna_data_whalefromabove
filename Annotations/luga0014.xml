@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>luga0014.jpg</filename>
+	<path>/Users/jamesheesom1/Documents/GitHub/findingfauna_data_whalefromabove/JPEGImages/luga0014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>48</ymin>
+			<xmax>396</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

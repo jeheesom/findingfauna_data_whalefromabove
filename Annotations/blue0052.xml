@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>blue0052.jpg</filename>
+	<path>/Users/jamesheesom1/Documents/GitHub/findingfauna_data_whalefromabove/JPEGImages/blue0052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>46</ymin>
+			<xmax>425</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

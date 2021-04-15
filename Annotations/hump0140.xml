@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>hump0140.jpg</filename>
+	<path>/Users/jamesheesom1/Documents/GitHub/findingfauna_data_whalefromabove/JPEGImages/hump0140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>218</ymin>
+			<xmax>379</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
