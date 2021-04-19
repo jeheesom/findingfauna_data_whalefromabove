@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New IMages</folder>
+	<filename>new_image0000.jpg</filename>
+	<path>/Users/jamesheesom1/Documents/GitHub/findingfauna_data_whalefromabove/New IMages/new_image0000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whalew</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>61</ymin>
+			<xmax>597</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>whalew</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>203</ymin>
+			<xmax>499</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>
